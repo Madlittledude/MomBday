@@ -1,0 +1,15 @@
+body { background-image:url('marigolds.jpg');
+    background-blend-mode: darken ;
+    font-size: 50px; 
+    font-style: cursive;
+    color: whitesmoke;} 
+
+
+.two {
+    background-image: url(rainbow.jpg);
+        font-size: 15px;
+        color: black} 
+
+.one {
+    background: orange} 
+
